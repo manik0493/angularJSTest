@@ -1,0 +1,19 @@
+{
+  "name": "workexample1",
+  "version": "1.0.0",
+  "description": "Simple Site for test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manik0493/angularJSTest.git"
+  },
+  "author": "Manik Narang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manik0493/angularJSTest/issues"
+  },
+  "homepage": "https://github.com/manik0493/angularJSTest#readme"
+}
