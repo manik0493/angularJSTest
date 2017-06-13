@@ -15,5 +15,15 @@
   "bugs": {
     "url": "https://github.com/manik0493/angularJSTest/issues"
   },
-  "homepage": "https://github.com/manik0493/angularJSTest#readme"
+  "homepage": "https://github.com/manik0493/angularJSTest#readme",
+  "devDependencies": {
+    "express": "^4.15.3",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.4.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^3.0.0"
+  }
 }

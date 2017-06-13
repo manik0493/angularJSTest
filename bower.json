@@ -1,0 +1,23 @@
+{
+  "name": "workexample1",
+  "description": "Simple Site for test",
+  "main": "index.js",
+  "authors": [
+    "Manik Narang"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/manik0493/angularJSTest",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jQuery": "^3.2.1"
+  },
+  "devDependencies": {
+    "angular": "1.5.5"
+  }
+}
